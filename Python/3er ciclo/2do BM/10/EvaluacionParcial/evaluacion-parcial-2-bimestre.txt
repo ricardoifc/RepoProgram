@@ -1,0 +1,17 @@
+En función del archivo Listado-Instituciones-Educativas-dos.csv, determinar:
+
+- El NumeroEstudiantes por Provincia
+- El NumeroDocentes por Provincia
+- El NumeroEstudiantes por Cantón
+- El NumeroDocentes por Cantón
+- Cantones de provincia de Zamora Chinchipe ordenados por número de docentes
+- Cantones de provincia de Loja ordenados por número de estudiantes
+- Cantones de provinncia de El Oro, ordenados por número de estudiantes
+
+Usar:
+- csv
+- pandas
+- groupby
+- reduce
+- sorted
+

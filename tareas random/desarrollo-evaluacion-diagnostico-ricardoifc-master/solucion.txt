@@ -1,0 +1,73 @@
+Algoritmo Venta_de_Vehiculos
+	pais<-0
+	impuesto<-0
+	auto<-0
+	numeroautos<-0
+	total<-0
+	totalOrigen<-0
+	TotalFinal<-0
+	Escribir "______________________"
+	Escribir " BIENVENDIO TIENDA DE AUTOS SUV"
+	Escribir "Escoja un marca SUV"
+	Escribir "1-Chevrolet $15000"
+	Escribir "2-Toyota $16500"
+	Escribir "3-Ford $21000"
+	Escribir "4-KIA $19000"
+	Leer auto
+	Escribir "______________________"
+	Escribir "Usted a elejido el modelo ", Auto
+	Si auto=1 Entonces
+		Escribir "Chevrolet $15000"
+		total<-15000
+	Fin si
+	Si auto=2 Entonces
+		Escribir "Toyota $16500"
+		total<-16500
+	Fin Si
+	Si auto=3 Entonces
+		Escribir "Ford $21000"
+		total<-21000
+	Fin Si
+	Si auto=4 Entonces
+		Escribir "KIA $19000"
+		total<-19000
+	Fin Si
+	Escribir "Cuantos Vehiculos va a comprar"
+	Leer numeroautos
+	Escribir "______________________"
+	Escribir "Usted a comprado ", numeroautos
+	Totalfinal<-total*numeroautos
+	Escribir "el valor es $", totalfinal
+	Escribir "______________________"
+	Escribir "Elija el origen de importacion"
+	Escribir "1-Argentina"
+	Escribir "2-Colombia"
+	Escribir "3-Chile"
+	Escribir "4-Otro pais"
+	Leer impuesto
+	Escribir "______________________"
+	Escribir "Usted a elejido el modelo ", impuesto
+	Si impuesto=1 Entonces
+		Escribir "Argentina 20%"
+		totalOrigen<-total*0.20
+	Fin si
+	Si impuesto=2 Entonces
+		Escribir "Colombia 25%"
+		totalOrigen<-total*0.25
+	Fin Si
+	Si impuesto=3 Entonces
+		Escribir "Chile 30%"
+		totalOrigen<-total*0.30
+	Fin Si
+	Si impuesto=4 Entonces
+		Escribir "Otro pais 40%"
+		totalOrigen<-total*0.40
+	Fin Si
+	Escribir "Impuesto es ",totalorigen 
+	Escribir "______________________"
+	Escribir "Total de autos importados= $",numeroautos
+	Escribir "Total de impuesros= ", totalorigen
+	Escribir "Precio por cada vehiculo= $", total
+	Escribir "Precio de venta de los vehiculos= $",totalfinal
+	Escribir "El total de autos de los paises de origen= $", Totalfinal
+FinAlgoritmo

@@ -1,0 +1,72 @@
+.encabezado{
+	background: light;
+}
+
+
+.uno{
+	border: 2px solid black;
+	margin: 10px 40px 50px 10px;
+	opacity: 0.9;
+}
+.tabla{
+
+	opacity: .5;
+}
+
+.table{
+	background: 6c6c6c;
+	opacity: .9;	
+}
+
+
+.dos{
+	border: 2px solid black;
+	margin: 20px 50px 60px 20px;
+	color: 030303;
+}
+.img{
+	opacity: 0.8;
+}
+.tabla2{
+	opacity: 0.6;
+}
+.tabla2{
+
+}
+.tres{
+	border: 2px solid black;
+	margin: 20px 60px 60px 20px;
+	color: 030303;
+}
+.his{
+	border: 2px solid black;
+	margin: 10px 40px 50px 10px;
+	color: 030303;
+}
+section#muestra{
+	margin: 0 auto;
+	width: 100%;
+
+}
+article#muestra1,article#muestra2{
+	background: #f1f1f1;
+	border: 0.3em solid #4b4f4b;
+	border-radius: 0.5em;
+	max-width: 90%;
+	min-height:  300%;
+	padding: 0.5em;
+	text-align: justify;
+	width: 55%;
+	color: 030303;
+	display: inline-block;
+	margin-bottom: 0.25em;
+}
+article#muestra1,article#muestra2{
+	width: 30.55%;
+	vertical-align: top;
+	text-align: center;
+}
+.pie{
+	color: 441d1d;
+	font: oblique bold 120% cursive;
+}

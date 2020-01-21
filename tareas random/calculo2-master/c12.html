@@ -1,0 +1,186 @@
+<html>
+<head>
+	<meta name="description" content="Esta pagina trata hacerca de calculo diferencial">
+	<meta name="keyword" content="Calculo diferencial">
+
+	<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#boton").click(function() {
+            var inicio = $("#numero1").val();
+            var fin = $("#numero2").val();
+            var y = $("#respuesta").val();
+            var x = $("#respuesta").val();
+            var cadena = "";
+            var cadena2 = "";
+            for (inicio = inicio; inicio <= fin; inicio++) {
+                x = inicio;
+				y = -3^(1-x)+ -2;
+                cadena += x + "<br />";
+                cadena2 += y + "<br />";
+            }
+
+            var elementoRespuesta = document.getElementById("respuesta");
+            var elementoRespuesta2 = document.getElementById("respuesta2");
+            elementoRespuesta.innerHTML = cadena;
+            elementoRespuesta2.innerHTML = cadena2;
+        	});
+      	});
+      
+    </script>
+	<title>Cálculadora 2</title>
+	<style type="text/css">
+		*
+		header{
+			height: 100%;
+			background-color:rgba(0, 0, 0, 0.4);
+			text-align: center;
+			color: white;
+			position: fixed;
+			    width: 100%;
+		}
+		.col-3{
+			width: 75%;
+
+			background: white;
+			display: inline-block;
+		}
+		.col-9{
+			width: 250px;
+
+			background: white;
+			display: inline-block;
+		}
+	</style>
+	</head>
+	<body >
+  	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	  	<a class="navbar-brand" href="index.html">Calculo Diferencial</a>
+	  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  	</button>
+
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    <ul class="navbar-nav mr-auto">
+	      
+	      	<li class="nav-item dropdown">
+	        	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	          	Primer Bimestre
+	        	</a>
+		        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+		          	<a class="dropdown-item" href="11.html">->Números Reales</a>
+		          	<a class="dropdown-item" href="12.html">->Funciones</a>
+		          	<a class="dropdown-item" href="13.html">->Funciones Exponenciales</a>
+		          	<a class="dropdown-item" href="14.html">->Funciones Lógaritmicas</a>
+		          	<a class="dropdown-item" href="15.html">->Límites</a>
+		          
+		        </div>
+	      	</li>
+	      	<li class="nav-item dropdown">
+	        	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	          	Cálculadora 1er Bimestre
+	        	</a>
+	        	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+	        		<a class="dropdown-item" href="c11.html">Cálculadora de Funciones: (x<sup>3</sup>-2x+8) </a>
+	          		<a class="dropdown-item" href="c12.html">Cálculadora de Funciones Exponenciales: -3<sup>1-x</sup>-2 </a>
+	          		<a class="dropdown-item" href="c13.html">Cálculadora de Funciones Logaritmicas: Log 4x+4</a>
+	        	</div>
+	      	</li>
+	      	<li class="nav-item dropdown">
+	        	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	          	Segundo Bimestre
+	        	</a>
+	        	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+	          		<a class="dropdown-item" href="20.html">->Derivadas</a>
+	          		<a class="dropdown-item" href="21.html">-->Regla para la suma y diferencia de funciones</a>
+	          		<a class="dropdown-item" href="22.html">-->Regla del producto</a>
+	          		<a class="dropdown-item" href="23.html">-->Regla de la división</a>
+	          		<a class="dropdown-item" href="24.html">-->Regla Regla de la raíz cuadrada</a>
+	          		<a class="dropdown-item" href="25.html">-->Regla de la funcion raíz</a>
+	          		<a class="dropdown-item" href="26.html">-->Regla de la cadena</a>
+	          			        	</div>
+	      	</li>
+	      	<li class="nav-item dropdown">
+	        	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	          	Cálculadora 2er Bimestre
+	        	</a>
+	        	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+	        		<a class="dropdown-item" href="c21.html">Cálculadora de Derivadas: <h0>a<b>X</b><sup>b</sup><b>+</b>c<b>X</b><sup>d</sup><b>+</b>e<b>X</b><sup>f</sup><b>+</b>g</h0> </a>
+	        	</div>
+	      	</li>
+	    </ul>
+	</div>
+	</nav>
+	</head>
+	<!-- Inicio de contenido-->
+	<center>
+	<div class="col-total">
+		<div class="col-3">
+			<div class="row">
+	  			<form>
+	  		  		<tr>
+						<td><center><h1>Cálculadora de Funciones Exponencial:</h1>
+						<h1>-3<sup>1-x</sup>-2</h1>
+						</center></td>
+					</tr>
+	        		<div class="form-group">
+	        			<label for="exampleInputEmail1">Inicio</label>
+	            		<input type="number" class="form-control" id="numero1" placeholder="Ingrese el numero inicial de X ">
+	        		</div>
+	        		<div class="form-group">
+	            		<label for="exampleInputEmail1">Fin</label>
+	            		<input type="number" class="form-control" id="numero2" placeholder="Ingrese el numero Final de X">
+	        		</div>
+
+	        		<a id="boton" href="#" class="btn btn-secondary btn-sm active" role="button" aria-pressed="true">Calcular</a>
+	        	</form>	
+	        </div>
+	  	</div>
+
+		<div class="col-9">
+			<h1>Respuestas</h1>
+	        	<table class="table table-striped">
+		  			<thead>
+		    		<tr>
+					    <th scope="col">X</th>
+					    <th scope="col">Y</th>
+				    </tr>
+					</thead>
+						<tbody>
+				    	<tr>
+				        	<td><h0 id="respuesta"></h0></td>
+				        	<td><h0 id="respuesta2"></h0></td>
+				    	</tr>
+					</tbody>
+				</table>
+		</div>
+	</div>
+	</center>
+	<!-- Fin contenido-->
+
+	<table border="0"width="100%"bgcolor="f8f8f8">
+		<tr>
+			<td>Pagina web de calculo diferencial, UTPL 2019</td>		
+		</tr>
+
+		<tr>
+			<td>Intregrantes</td>		
+		</tr>
+		<tr>
+			<td><ul>
+		        <li><a href="http://www.facebook.com/ricardoifc">Ricardo Israel Freire Carrion</a></li>
+		        <li><a href="http://www.facebook.com/diana.solano.31">Diana Gabriela Serrano Solano</a></li>
+		        <li><a href="http://www.facebook.com/ariel.sarango.75">Ariel Cruz Sarango Gonzalez</a></li>
+		        <li><a href="http://www.facebook.com/genesis.gonzalezgonzalez.1">Genenis Vanessa Gonzalez Gonzalez</a></li>
+		   	</ul></td>
+		</tr>
+	</table>
+	</body>
+	</html>

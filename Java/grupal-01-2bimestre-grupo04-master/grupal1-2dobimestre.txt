@@ -1,0 +1,43 @@
+Ejercicio 1:
+
+Determinar la suma de un arreglo bidimensional con tres filas y 5 columnas.
+
+Los valores del arreglo deben ser aleatorios
+
+Se debe usar el método obtenerNumero
+clase Operacion
+	public static double obtenerNumero(){
+	}
+}
+
+Ejercicio 2:
+
+Dados los siguientes datos
+
+estudiantes: {
+"MASACHE RAMÓN ROYER JOSÉ",
+"MEDINA OJEDA DANIEL MARCELO",
+"MORALES QUEZADA DAVID RICARDO",
+"NARVAEZ ROMAN MIGUEL ROBERTO"
+
+}
+
+notas: {
+	{20, 19, 10, 13},
+	{18, 19, 13, 20},
+	{17, 16, 12, 18},
+	{16, 15, 11, 15}
+}
+
+Donde cada fila corresponde a las notas de cada estudiante
+
+Determinar el siguiente reporte
+
+Libreta General de calificaciones
+
+Estudiante 1: MASACHE RAMÓN ROYER JOSÉ
+Notas: 20, 19, 10, 13
+Promedio: ?
+
+
+

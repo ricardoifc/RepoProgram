@@ -1,0 +1,64 @@
+Dadas las siguiente estructuras:
+
+String [] estudiantes = {
+  "Estudiante 1",
+  "Estudiante 2",
+  "Estudiante 3",
+  "Estudiante 4",
+  "Estudiante 5",
+  "Estudiante 6",
+  "Estudiante 7",
+  "Estudiante 8",
+  "Estudiante 9",
+  "Estudiante 10",
+  "Estudiante 11",
+  "Estudiante 12",
+  "Estudiante 13",
+  "Estudiante 14",
+  "Estudiante 15"}
+
+int [] notas {
+90,
+80,
+80,
+95,
+55,
+50,
+75,
+100,
+65,
+30,
+75,
+60,
+40,
+20,
+40]
+
+Primero:
+
+Generar un proceso que permita asignar valores a un arreglo relacionado:
+
+String notaCualitativa = new String[15]
+
+Si la nota es:
+
+menor a 35 la nota cualitativa es Regular
+mayor o  igual 35 Y menor a 50 la nota cualitativa es Buena
+mayor o igual a 50 la nota es Muy buena
+
+Segundo:
+obtener el promedio del paralelo
+
+
+La salida del reporte sería así:
+
+Estudiante1   90    Muy Buena
+...
+Estudiante 15
+
+Promedio del paralelo es: ?
+
+
+Usar la clase dada como ayuda, para el manejo de métodos
+
+

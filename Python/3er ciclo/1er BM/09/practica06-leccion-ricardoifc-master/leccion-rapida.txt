@@ -1,0 +1,47 @@
+Programación Funcional y Reactiva
+
+Lección Rápida - Tiempo 60 minutos
+
+En función del archivo CSV, generar una solución en Python para los siguientes puntos
+
+
+1. Ordenar por fundedDate 
+2. Filtrar los registros que pertenecen a la compañia Youtube
+3. Presentar un listado mapeado; ejemplo:
+Dado el registro:
+lifelock,LifeLock,,web,Tempe,AZ,1-May-07,6850000,USD,b
+
+generar:
+
+["www.lifelock.com", "web-USD"]
+
+4. Filtrar los registros que tienen numEmps mayores a 15
+
+La distribución de ejercicio es:
+
+Ejercicio 1 y 3 los estudiantes que se identifiquen con las siguientes tuplas
+
+(43, '1874'),
+(30, '3335'),
+(35, '2543'),
+(28, '1883'),
+(35, '9273'),
+(26, '1078'),
+
+Ejercicio 2 y 3 los estudiantes que se identifiquen con las siguientes tuplas
+(32, '3770'),
+(36, '7185'),
+(37, '5397'),
+(44, '7386'),
+(28, '7434'),
+(27, '2232'),
+
+Ejercicio 4 y 3 los estudiantes que se identifiquen con las siguientes tuplas
+
+(29, '5347'),
+(42, '9399'),
+(38, '2532'),
+(29, '7046'),
+(33, '5156'),
+(22, '0414'),
+

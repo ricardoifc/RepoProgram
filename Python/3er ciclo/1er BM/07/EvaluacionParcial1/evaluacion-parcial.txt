@@ -1,0 +1,76 @@
+﻿Evaluación parcial del primer bimestre
+
+Dados los archivos:
+
+alumnos.csv
+notas_asignatura.csv
+
+Donde se entiende que existe correspondencia entre las líneas de los archivos, es decir, la línea 1 del archivo alumnos.csv se corresponde con la línea 1 del archivo notas_asignatura.csv
+
+Encontrar:
+
+1) La siguiente estrcutura por cada correspondencia de líneas:
+
+([('nombre', 'Mary'), ('apellido', 'Hernandez')], [('ing-software', 1), ('base-datos', 10), ('web-semantica', 14), ('ing-datos', 12)])
+
+2) Ordenar los registros en base al apellido
+
+3) Ordenar los registros en base la nota de web-semantica
+
+4) Presentar los registros que sean mayores a 10 en la asignatura de ing-software y mayores a 10 en la asignatura de base de datos
+
+5) Obtener una nueva lista que contenga:
+['Mary Hernandez - 9.25',
+ 'Martin Hooper - 6.5',
+ 'Kaitlin Moore - 9.75',
+ 'Sonya Garrett - 13.5',
+ 'Lori Hughes - 10.5',
+ 'James Larsen - 9.0',
+ 'Amy Marshall - 7.0',
+ 'Christopher Quinn - 8.25',
+ 'Brooke Smith - 10.0',
+ 'Michele Lam - 11.25',
+ 'Brooke Schwartz - 4.25',
+ 'Daniel Berry - 11.75',
+ 'Garrett Roberts - 8.25',
+ 'Veronica Walters - 10.5',
+ 'Steven Singleton - 7.25',
+ 'Janet Winters - 6.25',
+ 'Betty Morgan - 13.25',
+ 'Janet Ray - 10.5',
+ 'Holly Scott - 10.5',
+ 'Barbara Chavez - 7.75',
+ 'Katie Wagner - 11.0',
+ 'Alexander Donovan - 4.5',
+ 'Claudia Gaines - 12.25',
+ 'Jeremy Roberts - 12.75',
+ 'Stephen Lang - 12.75',
+ 'Mason Young - 8.5',
+ 'Erin Collins - 5.0',
+ 'Jessica Castillo - 12.25',
+ 'Margaret Phelps - 9.5',
+ 'Nathan Roberson - 6.75',
+ 'Tracey Foster - 6.75',
+ 'Patrick Moore - 7.75',
+ 'Alexander Gomez - 15.75',
+ 'Sara Camacho - 17.0',
+ 'Laura Williams - 8.25',
+ 'James Atkinson - 6.75',
+ 'Matthew Richards - 14.5',
+ 'Jessica Morris - 11.5',
+ 'Claire Morris - 8.5',
+ 'Geoffrey Henderson - 4.25',
+ 'Amy Martinez - 6.75',
+ 'Melissa Ross - 7.25',
+ 'Stephanie Garcia - 13.5',
+ 'Loretta Lee - 10.0',
+ 'Kelly Miller - 8.25',
+ 'Brianna Meyers - 5.5',
+ 'Chase Dixon - 8.25',
+ 'Laura Ballard - 9.5',
+ 'Leah Burke - 11.75',
+ 'Sheila Richards - 16.0']
+
+6) Obtener la registros que tengan la nota mínima de la asignatura de ing-software.
+
+

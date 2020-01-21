@@ -1,0 +1,135 @@
+
+Ejercicio 1
+
+Desarrollar la siguiente problemática en lenguaje Java:
+
+
+En el segundo ciclo de la carrera de Ing en Computación 
+existen los siguientes alumnos:
+
+
+Megan Humphrey
+Keith Nguyen
+Stephanie Parker
+Christopher Torres
+Tammy Valdez
+Theresa Rodriguez
+James Bartlett
+Cheryl Duffy
+Edward Stevens
+Randy Hale
+
+Las notas de los estudiantes en la asignatura de Programación son:
+
+19.1
+20.0
+10.3
+19.4
+16.5
+17.6
+15.7
+14.8
+13.1
+13.1
+
+Las notas de los estudiantes en la asignatura de Base de datos son:
+
+18.2
+17.2
+13.2
+19.2
+12.2
+14.2
+13.2
+11.2
+12.2
+12.2
+
+Las notas de los estudiantes en la asignatura de Realidad Nacional son:
+
+20.0
+17.2
+10.1
+20.0
+15.6
+18.5
+13.4
+19.3
+11.2
+11.1
+
+En función de los datos realizar las siguientes actividades:
+
+A)
+
+Obtener los promedios de cada asignatura en un arreglo. Luego presentar
+los promedios de acuerdo al siguiente reporte:
+
+Promedio Generales por Asignatura
+
+Programación: ?
+Base de Datos: ?
+Realidad Nacional : ?
+
+El promedio del paralelo es: ?
+
+B)
+
+Presentar la libreta de calificaciones de cada estudiante:
+
+Estuidante 1:   M. RAMÍREZ
+  Asignatura Programación: ?  equivalente  a [Regular, Bueno, Muy Bueno, Sobresaliente]
+  Asignatura Base de Datos: ? equivalente  a [Regular, Bueno, Muy Bueno, Sobresaliente]
+  Asignatura Realidad Nacional: ? equivalente  a [Regular, Bueno, Muy Bueno, Sobresaliente]
+  Promedio del estudiante: ?
+  Promedio cuantitativo [Regular, Bueno, Muy Bueno, Sobresaliente]
+  
+
+Considerar:
+  Sobresaliente : 0-11
+  Muy Bueno:  11.1 - 15.9
+  Bueno: 16 - 18.9
+  Regular: 19-20
+
+Para obtener el promedio cuantitativo, se debe usar un método statico de otra 
+clase.
+
+
+Ejercicio 2
+
+Desarrollar en lenguaje de programación Python
+
+Se desea generar una aplicación de venta de autos. Por cada celular si ingresa lo siguiente:
+Año de Fabricación:
+Pais Origen:
+Valor Matrícula:
+Nombre de Dueño:
+
+Se ingresan tantos Autos como quiere el usuario.
+
+Se debe imprimir el siguiente reporte al final del proceso de ingreso de datos:
+
+Listado Matriculados Diarios:
+
+Auto 001:
+Año de Fabricación:
+Valor de Matrícula:
+País de Origen:
+Dueño:
+
+
+Total de autos matriculados: 
+Total de valores de  matriculas del día: 
+
+
+Tomar en consideración las siguientes observaciones:
+- Los autos de cuyo años de fabricación sea entre (>=1980 y <1990) no pueden ser ingresados. (Debe genear un excepción personalizada que maneje el evento)
+- Los autos de paises como (Chile, Colombia) no pueden ser ingresados. (Debe genear un excepción personalizada que maneje el evento)
+- Si el valor de la matrícula es mayor a $1000.2, se debe generar una excepción personalizada que maneje el evento)
+- Si al momento de ingresar el valor de la matricula, se ingresa un valor NO numérico debe capturar la exepción. (Debe usar una excepción propia del lenguaje de programación)
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+id,peso,tipo_part,anio_0c,mes_0c,dia_0c,lugar_ocur,cant_0c,edad_mad
+1,2440,Cesárea,2014,Junio,17,Establecimiento del IESS,Guayaquil,34
+2,3600,Cesárea,2014,Julio,1,"Hospital, Cl�nica o Consultorio Privado",Milagro,30
+3,2800,Cesárea,2014,Julio,15,Establecimiento del Ministerio de Salud,Milagro,23
+4,2900,Cesárea,2014,Julio,3,"Hospital, Cl�nica o Consultorio Privado",Guayaquil,36
+5,2820,Normal,2014,Julio,10,"Hospital, Cl�nica o Consultorio Privado",Milagro,31
+6,3100,Cesárea,2014,Julio,24,"Hospital, Cl�nica o Consultorio Privado",Milagro,22
+7,3000,Normal,2013,Diciembre,20,Establecimiento del Ministerio de Salud,Daule,29
+8,2900,Cesárea,2014,Junio,13,Establecimiento del IESS,Guayaquil,33
+9,0,0,2010,Junio,7,0,0,0
+10,3600,Normal,2014,Enero,3,Establecimiento del Ministerio de Salud,Milagro,23
+11,0,0,2012,Junio,4,0,0,0
+12,2700,Cesárea,2014,Junio,19,"Hospital, Cl�nica o Consultorio Privado",Daule,19
+13,3100,Normal,2014,Junio,7,Establecimiento del Ministerio de Salud,Daule,25
+14,3100,Cesárea,2014,Junio,9,Establecimiento del Ministerio de Salud,Daule,21
+15,2700,Cesárea,2014,Junio,27,"Hospital, Cl�nica o Consultorio Privado",Daule,26
+16,3000,Cesárea,2014,Mayo,26,"Hospital, Cl�nica o Consultorio Privado",Daule,26
+17,3300,Cesárea,2014,Junio,23,Establecimiento del Ministerio de Salud,Daule,24
+18,3000,Normal,2014,Junio,18,Establecimiento del Ministerio de Salud,Daule,22
+19,0,0,2002,Julio,12,0,0,0
+20,2900,Normal,2014,Marzo,2,Establecimiento de la Junta de Beneficencia,Guayaquil,16
+21,3400,Cesárea,2014,Mayo,10,"Hospital, Cl�nica o Consultorio Privado",Daule,18
+22,3200,Normal,2014,Agosto,25,Establecimiento del IESS,Quito,21
+23,3350,Normal,2014,Septiembre,8,Otro Establecimiento P�blico,Riobamba,24
+24,1420,Cesárea,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,21
+25,3400,Cesárea,2014,Junio,1,"Hospital, Cl�nica o Consultorio Privado",Guayaquil,27
+26,3250,Normal,2014,Junio,29,Establecimiento de la Junta de Beneficencia,Guayaquil,36
+27,0,0,2012,Mayo,24,0,0,0
+28,2800,Normal,2014,Julio,8,Establecimiento del Ministerio de Salud,Riobamba,43
+29,3540,Cesárea,2014,Agosto,15,Establecimiento del Ministerio de Salud,Riobamba,38
+30,3120,Cesárea,2014,Agosto,1,Establecimiento del Ministerio de Salud,Quito,24
+31,3000,Cesárea,2014,Julio,4,Establecimiento de la Junta de Beneficencia,Guayaquil,17
+32,2800,Normal,2014,Julio,30,Establecimiento del Ministerio de Salud,Riobamba,18
+33,2710,Cesárea,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,23
+34,3000,Cesárea,2014,Septiembre,10,"Hospital, Cl�nica o Consultorio Privado",Quito,29
+35,0,0,2010,Septiembre,28,0,0,0
+36,0,0,2007,Octubre,17,0,0,0
+37,3400,Cesárea,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,33
+38,3200,Normal,2014,Junio,23,"Hospital, Cl�nica o Consultorio Privado",Quito,41
+39,99,Normal,2014,Julio,2,Establecimiento del Ministerio de Salud,Riobamba,14
+40,2840,Ignorado,2014,Junio,30,Establecimiento del Ministerio de Salud,Chone,24
+41,3300,Cesárea,2014,Mayo,9,"Hospital, Cl�nica o Consultorio Privado",Daule,23
+42,2870,Cesárea,2014,Julio,8,Establecimiento de la Junta de Beneficencia,Guayaquil,20
+43,2950,Cesárea,2014,Junio,9,Establecimiento de la Junta de Beneficencia,Guayaquil,28
+44,2810,Normal,2014,Julio,17,Establecimiento del Ministerio de Salud,Riobamba,21
+45,3170,Normal,2014,Agosto,10,Establecimiento del Ministerio de Salud,Cuenca,34
+46,0,0,2001,Diciembre,17,0,0,0
+47,0,0,2012,Diciembre,15,0,0,0
+48,3500,Cesárea,2013,Agosto,28,Establecimiento del IESS,Quito,41
+49,3000,Cesárea,2014,Abril,21,"Hospital, Cl�nica o Consultorio Privado",Daule,19
+50,3160,Cesárea,2014,Junio,10,"Hospital, Cl�nica o Consultorio Privado",Samborond�n,29
+51,1260,Normal,2014,Julio,8,Establecimiento de la Junta de Beneficencia,Guayaquil,22
+52,3000,Normal,2014,Enero,6,Establecimiento del Ministerio de Salud,Riobamba,19
+53,2930,Cesárea,2014,Junio,1,Establecimiento del Ministerio de Salud,Guayaquil,26
+54,3200,Cesárea,2014,Junio,2,"Hospital, Cl�nica o Consultorio Privado",Daule,26
+55,2715,Cesárea,2014,Marzo,15,"Hospital, Cl�nica o Consultorio Privado",Cuenca,27
+56,3580,Cesárea,2014,Junio,26,Establecimiento del Ministerio de Salud,Chone,33
+57,2800,Cesárea,2014,Septiembre,9,"Hospital, Cl�nica o Consultorio Privado",Quito,26
+58,2770,Normal,2013,Diciembre,12,Establecimiento del Ministerio de Salud,Guayaquil,20
+59,3500,Cesárea,2014,Abril,15,"Hospital, Cl�nica o Consultorio Privado",Daule,25
+60,2400,Normal,2013,Octubre,10,Establecimiento del Ministerio de Salud,Riobamba,19
+61,4800,Cesárea,2014,Junio,16,"Hospital, Cl�nica o Consultorio Privado",Chone,37
+62,0,0,2011,Septiembre,2,0,0,0
+63,0,0,2009,Mayo,24,0,0,0
+64,3000,Cesárea,2014,Junio,13,"Hospital, Cl�nica o Consultorio Privado",Chone,34
+65,3500,Cesárea,2014,Agosto,9,"Hospital, Cl�nica o Consultorio Privado",Cuenca,26
+66,0,0,2003,Enero,4,0,0,0
+67,0,0,1992,Noviembre,21,0,0,0
+68,2500,Normal,2014,Junio,23,Establecimiento del Ministerio de Salud,Daule,14
+69,3160,Cesárea,2014,Julio,2,Establecimiento de la Junta de Beneficencia,Guayaquil,20
+70,2700,Cesárea,2014,Septiembre,4,"Hospital, Cl�nica o Consultorio Privado",Quito,32
+71,3290,Normal,2014,Julio,8,Establecimiento de la Junta de Beneficencia,Guayaquil,21
+72,3500,Cesárea,2014,Mayo,15,"Hospital, Cl�nica o Consultorio Privado",Chone,28
+73,2200,Normal,2014,Julio,8,Establecimiento de la Junta de Beneficencia,Guayaquil,16
+74,3620,Normal,2014,Junio,22,Establecimiento del Ministerio de Salud,Riobamba,19
+75,1850,Cesárea,2014,Julio,5,Establecimiento de la Junta de Beneficencia,Guayaquil,32
+76,3760,Normal,2014,Julio,26,Establecimiento del Ministerio de Salud,Riobamba,28
+77,3000,Ignorado,2014,Junio,29,"Hospital, Cl�nica o Consultorio Privado",Chone,21
+78,3130,Normal,2014,Agosto,8,Establecimiento del Ministerio de Salud,Cuenca,21
+79,1830,Normal,2014,Julio,3,Establecimiento de la Junta de Beneficencia,Guayaquil,18
+80,2700,Cesárea,2014,Junio,16,Establecimiento del Ministerio de Salud,Guayaquil,41
+81,0,0,1986,Enero,21,0,0,0
+82,2950,Normal,2014,Julio,29,Establecimiento del Ministerio de Salud,Cuenca,28
+83,3800,Normal,2014,Agosto,20,Establecimiento del IESS,Quito,38
+84,1350,Cesárea,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,21
+85,2500,Cesárea,2014,Julio,11,"Hospital, Cl�nica o Consultorio Privado",Milagro,23
+86,940,Cesárea,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,21
+87,3250,Normal,2014,Julio,10,Establecimiento del Ministerio de Salud,Milagro,22
+88,2540,Normal,2014,Agosto,19,Establecimiento del Ministerio de Salud,Cuenca,35
+89,2850,Cesárea,2014,Abril,30,Establecimiento de la Junta de Beneficencia,Guayaquil,32
+90,3000,Cesárea,2014,Septiembre,8,"Hospital, Cl�nica o Consultorio Privado",Quito,38
+91,3600,Normal,2014,Abril,19,Establecimiento del Ministerio de Salud,Guayaquil,33
+92,2000,Normal,2014,Julio,6,Establecimiento de la Junta de Beneficencia,Guayaquil,29
+93,2790,Normal,2014,Agosto,21,"Hospital, Cl�nica o Consultorio Privado",Quito,19
+94,1800,Cesárea,2014,Julio,8,Establecimiento de la Junta de Beneficencia,Guayaquil,39
+95,3400,Normal,2014,Junio,30,Establecimiento de la Junta de Beneficencia,Guayaquil,17
+96,3060,Normal,2014,Agosto,20,"Hospital, Cl�nica o Consultorio Privado",Quito,32
+97,0,0,1920,Agosto,20,0,0,0
+98,0,0,2011,Abril,8,0,0,0
+99,2940,Normal,2014,Junio,22,"Hospital, Cl�nica o Consultorio Privado",Quito,34
+100,99,Normal,2014,Febrero,21,Casa,Riobamba,43
+101,3730,Cesárea,2014,Julio,5,Establecimiento de la Junta de Beneficencia,Guayaquil,22
+102,3100,Normal,2014,Junio,6,Establecimiento del Ministerio de Salud,Cuenca,20
+103,3660,Normal,2014,Junio,27,Establecimiento del Ministerio de Salud,Riobamba,23
+104,2700,Normal,2014,Julio,1,"Hospital, Cl�nica o Consultorio Privado",Playas,18
+105,3380,Cesárea,2014,Abril,3,Establecimiento del Ministerio de Salud,Riobamba,27
+106,3650,Normal,2014,Julio,5,Establecimiento de la Junta de Beneficencia,Guayaquil,23
+107,1110,Normal,2014,Julio,6,Establecimiento del Ministerio de Salud,Guayaquil,19
+108,1700,Cesárea,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,26
+109,3500,Cesárea,2014,Mayo,6,"Hospital, Cl�nica o Consultorio Privado",Chone,35
+110,3300,Normal,2014,Agosto,12,Establecimiento del Ministerio de Salud,Cayambe,23
+111,3200,Normal,2014,Agosto,4,Establecimiento del Ministerio de Salud,Riobamba,27
+112,2850,Cesárea,2014,Julio,7,"Hospital, Cl�nica o Consultorio Privado",Guayaquil,29
+113,3000,Normal,2014,Junio,24,"Hospital, Cl�nica o Consultorio Privado",Quito,36
+114,2760,Cesárea,2014,Julio,6,Establecimiento de la Junta de Beneficencia,Guayaquil,19
+115,1330,Cesárea,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,26
+116,3181,Cesárea,2014,Junio,18,"Hospital, Cl�nica o Consultorio Privado",Quito,40
+117,2900,Ignorado,2014,Agosto,26,"Hospital, Cl�nica o Consultorio Privado",Cuenca,27
+118,2700,Normal,2014,Junio,12,Establecimiento de la Junta de Beneficencia,Guayaquil,16
+119,2940,Normal,2014,Julio,7,Establecimiento de la Junta de Beneficencia,Guayaquil,17
+120,3100,Normal,2014,Agosto,27,"Hospital, Cl�nica o Consultorio Privado",Cuenca,31
+121,2700,Normal,2014,Julio,4,"Hospital, Cl�nica o Consultorio Privado",Cuenca,22
+122,3135,Normal,2014,Agosto,7,Establecimiento del Ministerio de Salud,Cuenca,20
+123,0,0,2012,Julio,23,0,0,0
+124,0,0,2008,Noviembre,27,0,0,0
+125,3400,Cesárea,2014,Junio,2,"Hospital, Cl�nica o Consultorio Privado",Daule,22
+126,3050,Cesárea,2014,Junio,29,Establecimiento del Ministerio de Salud,Chone,16
+127,3320,Cesárea,2014,Mayo,30,Establecimiento del Ministerio de Salud,Chone,26
+128,3730,Cesárea,2013,Julio,17,Establecimiento de la Junta de Beneficencia,Guayaquil,33
+129,3200,Cesárea,2014,Septiembre,16,"Hospital, Cl�nica o Consultorio Privado",Quito,22
+130,3181,Cesárea,2014,Junio,20,"Hospital, Cl�nica o Consultorio Privado",Daule,21
+131,3750,Cesárea,2014,Abril,22,Establecimiento de la Junta de Beneficencia,Guayaquil,22
+132,3600,Normal,2013,Octubre,9,"Hospital, Cl�nica o Consultorio Privado",Guayaquil,27
+133,3990,Normal,2014,Agosto,23,Establecimiento del Ministerio de Salud,Quito,20
+134,3017,Normal,2014,Julio,8,Establecimiento del IESS,Cuenca,25
+135,3300,Normal,2014,Agosto,16,"Hospital, Cl�nica o Consultorio Privado",Quito,17
+136,3220,Normal,2014,Julio,1,Establecimiento del Ministerio de Salud,Chone,31
+137,3200,Cesárea,2014,Mayo,20,"Hospital, Cl�nica o Consultorio Privado",Daule,42
+138,3400,Cesárea,2014,Agosto,6,"Hospital, Cl�nica o Consultorio Privado",Quito,33
+139,3099,Cesárea,2013,Julio,16,"Hospital, Cl�nica o Consultorio Privado",Daule,18
+140,3850,Cesárea,2014,Agosto,7,Establecimiento del IESS,Cuenca,36
+141,2800,Normal,2014,Mayo,15,Establecimiento del Ministerio de Salud,Guayaquil,31
+142,1470,Normal,2014,Julio,5,Establecimiento de la Junta de Beneficencia,Guayaquil,31
+143,2090,Cesárea,2014,Julio,5,Establecimiento de la Junta de Beneficencia,Guayaquil,25
+144,3340,Normal,2014,Agosto,2,Establecimiento del Ministerio de Salud,Riobamba,25
+145,3000,Cesárea,2014,Marzo,27,"Hospital, Cl�nica o Consultorio Privado",Guayaquil,30
+146,2860,Normal,2014,Agosto,24,"Hospital, Cl�nica o Consultorio Privado",Quito,31
+147,3200,Ignorado,2014,Junio,30,"Hospital, Cl�nica o Consultorio Privado",Guayaquil,32
+148,2770,Cesárea,2014,Septiembre,9,Establecimiento del Ministerio de Salud,Quito,21
+149,3000,Cesárea,2014,Julio,2,"Hospital, Cl�nica o Consultorio Privado",Daule,28

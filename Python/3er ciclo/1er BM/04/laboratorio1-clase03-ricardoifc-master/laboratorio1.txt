@@ -1,0 +1,50 @@
+
+
+Problema 1:
+
+Dado el siguiente conjunto de promedios de estudiantes; determinar los estudiantes que pasan de ciclo. Todos los estudiantes que pasan de ciclo son aquellos que tienen un promedio de 16.5 o mayor.
+
+promedios.txt
+
+Problema 2:
+
+Dada la siguiente lista:
+
+notas = [(5, 5, 10), (10, 2, 4), (10, 1, 9), (10, 2, 3)]
+
+En contrar una lista como sigue:
+
+[20, 16, 20, 15]
+
+Problema 3:
+
+Dada la siguiente frase:
+
+"No hay medicina que cure lo que no cura la felicidad"
+
+Encuentre el listado que sigue:
+
+["No", "hay", "que", "lo", "que", "no", "la"]
+
+
+Problema 4:
+
+Dado el siguiente listado:
+
+notas = [(5, 5, 10, "Regular"), (10, 2, 4, "Bueno"), (10, 1, 9, "Muy Bueno"), (7, 2, 3, "Sobresaliente")]
+
+Filtrar aquellos que tiene la calificación cualitativa "Regular o Bueno"
+
+
+Problema 5:
+
+
+Dadas las siguientes edad:
+
+[10, 12, 13, 14, 16, 18, 20, 30, 31, 32, 33, 40, 50]
+
+Se ha generado una lista denomindad black_edades, formada así:
+
+[10, 14, 30, 32, 40, 16]
+
+Generar el listado de edades que no estén dentro de las black_edades.
